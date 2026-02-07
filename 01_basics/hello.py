@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
+# 基础语法、变量、输入输出
 print("hello,python")
 
 
